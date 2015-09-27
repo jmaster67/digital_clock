@@ -1,5 +1,5 @@
 # digital_clock
-
+Need to add the following interval
 //text color change every hour
 	setInterval(function(){
 		var d = new Date();
