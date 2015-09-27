@@ -1,0 +1,13 @@
+body{
+  background-color: grey;
+  color: white;
+}
+
+#clock{
+  font-size: 100px;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+  margin-top: 100px;
+}
+
+/*5em
